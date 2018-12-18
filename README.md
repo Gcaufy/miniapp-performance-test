@@ -5,9 +5,9 @@
 
 **Code Snippet**
 
-[Page setData]()
+[Page setData](https://developers.weixin.qq.com/s/Aw06ZLmT7s4N)
 
-[Component setData]()
+[Component setData](https://developers.weixin.qq.com/s/i50aOLm37y4W)
 
 **Key Code**
 
@@ -27,9 +27,10 @@ load () {
 
 **Test Data Size**
 
-282kb
+924.802kb
 
 **Result**
+![untitled-1](https://user-images.githubusercontent.com/2182004/50155314-bdc4f700-0306-11e9-855e-06e71b38641f.png)
 
 
 **Conclusion**
