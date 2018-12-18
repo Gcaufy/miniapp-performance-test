@@ -18,7 +18,7 @@ load () {
 
   this.setData({ list: testData }, function () {
     let e2 = +new Date();
-    self.setData({ loadtime: e1 - s });
+    self.setData({ loadtime: e2 - s });
   });
   let e1 = +new Date();
   this.setData({ runtime: e1 - s });
