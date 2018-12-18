@@ -4,10 +4,13 @@
 ### Page setData VS Component setData
 
 **Code Snippet**
+
 [Page setData]()
+
 [Component setData]()
 
 **Key Code**
+
 ```
 load () {
   let self = this;
@@ -23,6 +26,7 @@ load () {
 ```
 
 **Test Data Size**
+
 282kb
 
 **Result**
