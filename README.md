@@ -29,8 +29,8 @@ load () {
 
 924.802kb
 
-**Result**
-![untitled-1](https://user-images.githubusercontent.com/2182004/50155314-bdc4f700-0306-11e9-855e-06e71b38641f.png)
+**Result Screenshot**
+![untitled-1](https://user-images.githubusercontent.com/2182004/50156157-f8c82a00-0308-11e9-9bbf-c2f972b1a314.png)
 
 
 **Conclusion**
